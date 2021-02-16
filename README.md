@@ -28,6 +28,8 @@ Because i cant use migrate for creating View on Mysql so open directory
     - v1/avg-products param(idProduct)
     - v1/monthly-report param(tanggal)
 
+>Here the [Sketch Database](https://dbdiagram.io/d/602b453980d742080a3aa5e8) 
+
 >**Thank You**
 
 
